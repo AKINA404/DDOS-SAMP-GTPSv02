@@ -1,5 +1,5 @@
 # DDOS-SAMP-GTPSv02
 Happy Abuse LoL
 
-#Credit
+#CREDIT
 https://github.com/mrprogrammer2938
