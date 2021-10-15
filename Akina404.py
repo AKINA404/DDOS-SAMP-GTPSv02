@@ -45,11 +45,11 @@ def menu():
 ██╔══██║██╔═██╗░██║██║╚████║██╔══██║
 ██║░░██║██║░╚██╗██║██║░╚███║██║░░██║
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝\n""" + color.blue + """
-         ----[    Code By (Mr.nope)   ]---
-        -------[   Recode :""" + color.blue + """ AKINA404 ]-----------""" + color.End)
-    host = input("\nEnter Ip/Host Server: ")
+        -------[    Code By (Mr.nope)   ]---
+        -------[   Recode :""" + color.blue + """ AKINA404 ]---""" + color.End)
+    host = input("\nIp/Host Server: ")
     time.sleep(1)
-    port = int(input("\nEnter Port Server: "))
+    port = int(input("\nPort Server: "))
     ##################################################
     UDP_PORT = port
     time.sleep(1)
