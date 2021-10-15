@@ -44,9 +44,7 @@ def menu():
 ███████║█████═╝░██║██╔██╗██║███████║
 ██╔══██║██╔═██╗░██║██║╚████║██╔══██║
 ██║░░██║██║░╚██╗██║██║░╚███║██║░░██║
-╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝\n""" + color.blue + """
-        -------[    Code By (Mr.nope)   ]---
-        -------[   Recode :""" + color.blue + """ AKINA404   ]---""" + color.End)
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░╚═╝\n"""
     host = input("\nIp/Host Server: ")
     time.sleep(1)
     port = int(input("\nPort Server: "))
@@ -81,4 +79,5 @@ if __name__ == '__main__':
         print("\nCtrl + C")
         print("\nExiting...")
         sys.exit()
-# Thanks For using :)
+# Thanks For Using :)
+# Happy Abuse LoL  :)
